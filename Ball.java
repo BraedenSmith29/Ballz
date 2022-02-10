@@ -1,6 +1,6 @@
 public class Ball {
     
-    private final float speed = 0.5F;
+    private final float speed = 6;
     private double xPos = 225;
     private double yPos = 646;
     private double deltaX;

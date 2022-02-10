@@ -19,7 +19,7 @@ public class BallLauncher {
 
     public static void update() {
         if (firing && ballCount > 0) {
-            if (firingLag >= 50) {
+            if (firingLag >= 10) {
                 Window.addBall(angle);
                 if (++ballsFired >= ballCount) {
                     firing = false;
