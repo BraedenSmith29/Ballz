@@ -15,7 +15,7 @@ If you would like to compile the source code directly instead, install the JDK a
 * Aim the mouse to turn the ball launcher, and click to fire. You will not be able to fire again until all of the balls return.
 
 ### Rules:
-1. Each time a ball makes contact with a numbered block, the ball will bounce off and the number will decrease by 1.
+1. Each time a ball makes contact with a numbered block, the ball will bounce off and the number will decrease by one.
 2. If the number on a block hits 0, it will disappear.
 3. If a ball hits a '+' block, the number of balls in the launcher will increase by one and the block will disappear.
 4. Each time you click, the launcher will fire all of the balls in the launcher in the same direction.
